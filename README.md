@@ -5,7 +5,6 @@
 
 ![Rust](https://img.shields.io/badge/rust-1.78.0-orange?style=for-the-badge&logo=rust)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
 
