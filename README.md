@@ -1,6 +1,4 @@
-### `README.md`
 
-`
 # pacgrep
 
 ![Rust](https://img.shields.io/badge/rust-1.78.0-orange?style=for-the-badge&logo=rust)
